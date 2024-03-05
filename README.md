@@ -62,13 +62,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-## Design changed:
-    #theme.minc619.css-> removed:
-        .page-header{
-            border-bottom:.0625rem solid #e7eaf3;
-            margin-bottom:2.25rem
-        }
-    #vendoe.min.css-> =  
-        .select2-container--default .select2-selection--single{
-            background-color:#fff;display: block;width: 100%;height: calc(1.6em + 1.21875rem);padding: .54688rem .875rem;font-size: .875rem;font-weight: 400;line-height: 1.6;color: #1e2022;background-color: #fff;background-clip: padding-box;border: .0625rem solid #e7eaf3;border-radius: .3125rem;transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-            }
